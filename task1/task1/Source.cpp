@@ -11,7 +11,7 @@ public:
 
 	void Take(string path)
 	{
-		int Re_Place = 9;
+		int Re_Place 111;
 		int finish = 0;
 		int prec = 0;
 		int a = 0;
